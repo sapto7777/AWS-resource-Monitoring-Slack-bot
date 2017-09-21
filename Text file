@@ -1,0 +1,6 @@
+AWS resource monitoring slack bot.
+Functionalities:
+You can start , stop EC2 instances through a slack chat bot.
+Also the slack bot can automatically tag your untagged EC2 instances.
+Developed the slack bot using AWS lambda , Cloudwatch , API gateway , Slack endpoints , Amazon lex.
+This bot can save a lot of billing issues for any small to large scale industrial company who have a lots of EC2 instances running.
